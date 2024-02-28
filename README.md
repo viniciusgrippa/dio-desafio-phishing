@@ -25,4 +25,7 @@
 
 Utilizei a página do Twitter para coleta (mesmo sabendo que hoje ele é "X"), o intuito era reproduzir os comandos em uma página diferente.
 
+![Alt text](./VirtualBox_Kali%20Linux_28_02_2024_12_04_18.png)
+
+![Alt text](./VirtualBox_Kali%20Linux_28_02_2024_12_17_31.png)
 
